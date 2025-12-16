@@ -29,5 +29,5 @@ Analytical Storytelling
 🔗 Live Dashboard (Tableau Public)
 https://public.tableau.com/shared/JMH3YK33T?:display_count=n&:origin=viz_share_link
 
-📁 Dataset used for analysis
+📁 Dataset used for analysis (File was too large for GitHub so I put it in Kaggle as a workbook)
 https://www.kaggle.com/datasets/mayurilohote/airbnb-dataset
